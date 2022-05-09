@@ -18,3 +18,6 @@ So, in our example, total net points are:50+45+36+27+27=185
 4) Now divide these total net points by 20 (Because sum of all credits is 20)
 So, in our example, it's:185/20 = 9.25
 That's your CGPA (out of 10)
+
+
+![screenshot_cgpa](https://user-images.githubusercontent.com/80886593/167431426-5755aaf3-ddbe-4851-aa38-bf062de5eb99.png)
